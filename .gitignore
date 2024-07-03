@@ -6,6 +6,10 @@ __pycache__/
 # DS of macos system
 .DS_Store
 
+# Dataset of week10 - week11
+week10/data
+week11/data
+
 # C extensions
 *.so
 
