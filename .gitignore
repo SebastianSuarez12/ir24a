@@ -9,6 +9,9 @@ __pycache__/
 # Dataset of week10 - week11
 week10/data
 week11/data
+week14/data
+week14/data2
+week14/test
 
 # C extensions
 *.so
