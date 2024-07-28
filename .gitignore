@@ -13,6 +13,9 @@ week14/101_ObjectCategories
 week14/train_features.npy
 week14/train_labels.npy
 week14/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
+week14/train_features_test.npy
+week14/train_labels_test.npy
+
 # C extensions
 *.so
 
