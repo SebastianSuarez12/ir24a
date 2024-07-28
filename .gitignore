@@ -9,10 +9,10 @@ __pycache__/
 # Dataset of week10 - week11
 week10/data
 week11/data
-week14/data
-week14/data2
-week14/test
-
+week14/101_ObjectCategories
+week14/train_features.npy
+week14/train_labels.npy
+week14/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
 # C extensions
 *.so
 
